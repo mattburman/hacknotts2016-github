@@ -1,2 +1,2 @@
-i like going places
+i like going places that are cool
 
