@@ -2,4 +2,5 @@
 Doing a workshop!
 
 # Add your username!
-*   mattburman
+-   mattburman
+-   pandelisz
